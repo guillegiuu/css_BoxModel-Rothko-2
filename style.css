@@ -1,0 +1,64 @@
+/*Personal_Proyecto*/
+
+/* Marco */
+.marco {
+  border: 5px solid black;
+  width: 500px;
+  padding: 50px;
+  margin: 20px auto;
+  background-color: #fcb045;
+
+}
+
+/* Cuadro */
+.cuadro {
+  width: 500px;
+  height: 600px;
+  background-color: #efb762;
+  filter: blur(2px);
+  overflow: hidden;
+}
+
+/* Rectangulo_uno */
+.uno {
+  width: 425px;
+  height: 150px;
+  background-color: #22c1c3;
+  margin: 50px auto;
+  box-shadow: 0 0 2px 2px #22c1c3;
+  border-radius: 8px;
+  transform: rotate(-0.5deg);
+}
+
+/* Rectangulo_dos */
+.dos {
+  width: 425px;
+  height: 200px;
+  background-color: #000000;
+  margin: 50px auto;
+  border-radius: 5px 10px;
+  box-shadow: 0 5px 0 0 #22c1c3;
+}
+
+
+/* Rectangulo_tres */
+.tres {
+  width: 425px;
+  height: 45px;
+  background-color: #80561b;
+  margin: -45px auto;
+  border-radius: 5px 10px;
+  box-shadow: 0 5px 0 0 #482f05;
+
+}
+
+/* Rectangulo_cuatro */
+.cuatro {
+  width: 425px;
+  height: 45px;
+  background-color: #860c2d;
+  margin: 48px auto;
+  border-radius: 5px 10px;
+  box-shadow: 0 0 5px 0 #000000;
+
+}
